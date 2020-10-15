@@ -97,7 +97,7 @@ body{
 }
 
 .background{
-    background: rgba(0,0,0,0.7) url("cover1.jpg");
+    background: rgba(0,0,0,0.7) url("../Img/cover1.jpg");
     background-size: cover;
     background-blend-mode: saturation;
 }
